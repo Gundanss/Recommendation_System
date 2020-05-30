@@ -1,0 +1,706 @@
+userId,title,movieId,rating
+0,Pulp Fiction,0,9
+0,Raging Bull,1,9
+0,The Matrix Revolutions,2,3
+1,Hitler - Eine Karriere,3,6
+1,Srpski film,4,9
+1,Vivarium,5,5
+1,We Were Soldiers,6,1
+1,Wounds,7,7
+2,Monk,8,6
+2,The Thing on the Doorstep,9,6
+3,Harry Potter and the Deathly Hallows: Part 1,10,7
+3,Harry Potter and the Half-Blood Prince,11,8
+3,How to Murder Your Wife,12,4
+3,The 10th Kingdom,13,7
+3,The Wizard of Oz,14,9
+4,Pulp Fiction,0,10
+5,Spenser Confidential,15,1
+6,Spenser Confidential,15,8
+6,30 Days of Night: Dark Days,16,5
+6,6 Underground,17,8
+6,Alita: Battle Angel,18,8
+6,Assassination,19,5
+6,Band of the Hand,20,5
+6,Burn After Reading,21,8
+6,Dragged Across Concrete,22,8
+6,Escape to Athena,23,7
+6,I Don't Feel at Home in This World Anymore.,24,8
+6,Jack Ryan,25,10
+6,Jason and the Argonauts,26,8
+6,Lonesome Dove,27,10
+6,Love and Bullets,28,4
+6,Mr. & Mrs. Smith,29,8
+6,Rooster Cogburn,30,7
+6,Shutter Island,31,5
+6,Skyline,32,6
+6,The Da Vinci Code,33,5
+6,The General's Daughter,34,6
+6,The Heroes of Telemark,35,8
+6,The Outsider,36,7
+6,The Pledge,37,6
+6,To Live and Die in L.A.,38,8
+7,Spenser Confidential,15,7
+7,1917,39,7
+7, Dracula:,40,3
+7, The Walking Dead:,41,7
+7,The Witcher,42,5
+7, Vikings:,43,7
+7,A Rainy Day in New York,44,6
+7,Bloodshot,45,5
+7,Chernobyl,46,9
+7,Code 8,47,5
+7,Countdown,48,6
+7,Doctor Sleep,49,7
+7,Freaks,50,6
+7,Gisaengchung,51,7
+7,Knives Out,52,7
+7,Once Upon a Time... in Hollywood,53,5
+7,Primal,54,3
+7,Terminator: Dark Fate,55,6
+7,The Addams Family,56,6
+7,The Invisible Man,57,5
+7,The Lighthouse,58,7
+7,The Outfit,59,7
+8,Knives Out,52,4
+8,A Beautiful Day in the Neighborhood,60,9
+8,Angel on My Shoulder,61,6
+8,Honey Boy,62,4
+9,The Girl Next Door,63,10
+9,The Passion of the Christ,64,10
+10,The Passion of the Christ,64,10
+11,Spenser Confidential,15,7
+11,Gisaengchung,51,8
+11,Terminator: Dark Fate,55,8
+11,Abigail,65,5
+11,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,66,7
+11,Bombshell,67,8
+11,Charlie's Angels,68,4
+11,Color Out of Space,69,8
+11,Contagion,70,9
+11,Dark Light,71,6
+11,Free Enterprise,72,8
+11,Fukkatsu no hi,73,8
+11,Gamgi,74,7
+11,Gemini Man,75,7
+11,It Chapter Two,76,8
+11,Snatchers,77,7
+11,Sonic the Hedgehog,78,8
+11,Star Wars: Episode IX - The Rise of Skywalker,79,5
+11,Starcrash,80,3
+11,Superman: Red Son,81,7
+11,The Adventures of Buckaroo Banzai Across the 8th Dimension,82,5
+11,The Final Level: Escaping Rancala,83,3
+11,The Report,84,8
+11,Virus,85,8
+11,Zombieland: Double Tap,86,6
+12,Contagion,70,7
+12,Bad Boys for Life,87,4
+12,Black Panther,88,9
+12,Chocolat,89,1
+12,Joker,90,8
+12,Killshot,91,7
+12,Person of Interest,92,5
+12,SM-rechter,93,8
+12,The Man Who Would Be King,94,3
+13,Die Another Day,95,6
+13,Fighting with My Family,96,8
+13,GoldenEye,97,6
+13,The World Is Not Enough,98,8
+13,Tomorrow Never Dies,99,7
+14,7500,100,7
+14,Ajeossi,101,9
+14,Biyeolhan geori,102,9
+14,Black Moon Rising,103,7
+14,Chang-gwol,104,7
+14,Diecisiete,105,8
+14,Earthquake Bird,106,7
+14,El hoyo,107,9
+14,Ford v Ferrari,108,10
+14,Headshot,109,7
+14,High Ground,110,9
+14,Killer Inside: The Mind of Aaron Hernandez,111,8
+14,La grande classe,112,6
+14,Life of the Party,113,7
+14,Locke & Key,114,7
+14,Mai wei,115,10
+14,Missing Link,116,7
+14,Modo Avião,117,5
+14,Motherless Brooklyn,118,9
+14,Onward,119,9
+14,Si c'était de l'amour,120,7
+14,Siberia,121,9
+14,The Coldest Game,122,6
+14,The Laundromat,123,7
+14,Uncut Gems,124,9
+15,Contagion,70,7
+15,Joker,90,9
+15,Anthropocene: The Human Epoch,125,8
+15,Auf der anderen Seite,126,9
+15,Besa,127,8
+15,Cactus Flower,128,8
+15,Cirkus Columbia,129,8
+15,Dalida,130,8
+15,I Feel Pretty,131,6
+15,Koja je ovo drzava!,132,8
+15,L'insulte,133,9
+15,Life of Pi,134,9
+15,McQueen,135,9
+15,Mei to Koneko basu,136,9
+15,Mouchette,137,8
+15,Pope Francis: A Man of His Word,138,8
+15,Posoki,139,8
+15,Red Army,140,9
+15,Sesame Street: Alphabet Songs,141,9
+15,Still Life,142,9
+15,The Bucket List,143,8
+15,The Call of the Wild,144,8
+15,The Guard,145,9
+15,The Petrified Forest,146,9
+15,U raljama zivota,147,8
+16,Monk,8,9
+16,The Witcher,42,9
+16,Chernobyl,46,10
+16,Agents of S.H.I.E.L.D.,148,9
+16,Arrested Development,149,9
+16,Arrow,150,9
+16,Billions,151,9
+16,Black Mirror,152,9
+16,Black Sails,153,9
+16,Chappelle's Show,154,10
+16,Daredevil,155,10
+16,Deadwood,156,9
+16,Entourage,157,10
+16,Game of Thrones,158,10
+16,Luther,159,9
+16,Outlander,160,9
+16,Peaky Blinders,161,10
+16,Ray Donovan,162,9
+16,Reno 911!,163,9
+16,Shameless,164,9
+16,Smallville,165,10
+16,Taboo,166,9
+16,The Flash,167,9
+16,The Sopranos,168,10
+16,The Umbrella Academy,169,9
+17,Spenser Confidential,15,4
+17,The Invisible Man,57,6
+17,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,66,7
+17,Counterpart,170,6
+17,Magnum P.I.,171,4
+17,"Roswell, New Mexico",172,4
+17,Star Trek: Discovery,173,2
+17,The John Larroquette Show,174,10
+17,Tomb Raider,175,6
+17,What We Left Behind: Looking Back at Deep Space Nine,176,9
+18,6 Underground,17,7
+18,Avenue 5,177,7
+18,Snowpiercer,178,9
+18,The Terminal,179,8
+19,Snowpiercer,178,8
+19,Ant-Man,180,6
+19,Big Hero 6,181,7
+19,Birdman or (The Unexpected Virtue of Ignorance),182,9
+19,Boyhood,183,7
+19,Citizenfour,184,9
+19,Cobain: Montage of Heck,185,8
+19,Frank,186,8
+19,Gwoemul,187,8
+19,Inherent Vice,188,7
+19,Inside Out,189,9
+19,Interstellar,190,8
+19,Lucy,191,7
+19,Mad Max: Fury Road,192,9
+19,Nightcrawler,193,8
+19,Selma,194,8
+19,Side by Side,195,8
+19,Still Alice,196,9
+19,The Hobbit: The Battle of the Five Armies,197,7
+19,The Imitation Game,198,8
+19,The Interview,199,7
+19,The One I Love,200,8
+19,The Theory of Everything,201,7
+19,Tusk,202,8
+19,Whiplash,203,8
+20,Spenser Confidential,15,7
+20,Gemini Man,75,6
+20,5 Flights Up,204,7
+20,All the Bright Places,205,7
+20,American Ninja 2: The Confrontation,206,10
+20,Anaconda,207,5
+20,Avengers: Endgame,208,10
+20,Batman & Robin,209,7
+20,Dark Angel,210,7
+20,Dolemite Is My Name,211,10
+20,Doom: Annihilation,212,4
+20,Entrapment,213,7
+20,Halloween: Resurrection,214,4
+20,Halloween: The Curse of Michael Myers,215,10
+20,Hex,216,6
+20,Jason X,217,10
+20,NBA 2000: Stars for the New Millennium,218,10
+20,Real Men,219,10
+20,The Client,220,10
+20,The Grudge,221,5
+20,The Irishman,222,10
+20,The New Kids,223,7
+20,The Purge,224,10
+20,The Wolf Hour,225,10
+20,Trespass,226,10
+21,Amélie,227,9
+21,Requiem for a Dream,228,9
+21,Ying xiong,229,9
+21,Züri Zoo,230,9
+22,Vivarium,5,3
+22,Bloodline,231,2
+22,Guns Akimbo,232,5
+22,The Host,233,5
+22,We Summon the Darkness,234,2
+23,Spenser Confidential,15,8
+24,FernGully: The Last Rainforest,235,7
+24,Justin Bieber: Never Say Never,236,1
+24,Schitt's Creek,237,1
+24,The Being Frank Show,238,1
+24,Til Debt Do U$ Part,239,8
+25,Australia,240,7
+25,District 9,241,8
+25,Living Universe,242,9
+25,Occupation,243,8
+25,The Hurt Locker,244,2
+25,"Tomorrow, When the War Began",245,9
+26,Contagion,70,8
+26,Baywatch,246,1
+26,Ben-Hur,247,1
+26,Cold Pursuit,248,3
+26,Diana,249,1
+26,Frasier,250,10
+26,Hidden Figures,251,8
+26,Hitsville: The Making of Motown,252,3
+26,Johnny English,253,7
+26,Johnny English Strikes Again,254,4
+26,Law & Order: Special Victims Unit,255,1
+26,Man on a Ledge,256,7
+26,Mayflower: The Pilgrims' Adventure,257,7
+26,Mission: Impossible - Fallout,258,1
+26,Murder on the Orient Express,259,1
+26,Silence,260,2
+26,Skin,261,10
+26,Some People,262,7
+26,Stan & Ollie,263,10
+26,That'll Be the Day,264,3
+26,The Bank Job,265,8
+26,The Bounty,266,10
+26,The Personal History of David Copperfield,267,1
+26,Victoria & Abdul,268,10
+26,Whitney,269,9
+27,1917,39,10
+27,Gisaengchung,51,10
+27,The Lighthouse,58,9
+27,AJ and the Queen,270,2
+27,Hatchback,271,2
+28,Contagion,70,9
+28,Chashme Buddoor,272,10
+28,Gol Maal,273,8
+28,Jaane Bhi Do Yaaro,274,10
+28,Justice League,275,1
+28,Open Grave,276,10
+28,Paranormal Activity,277,9
+28,Pet Sematary,278,2
+28,Pushpaka Vimana,279,10
+28,Sholay,280,9
+28,Standoff,281,3
+28,Tezaab,282,7
+28,The Equalizer 2,283,6
+28,The Game Changers,284,10
+28,The Most Dangerous Animal of All,285,7
+28,The Mothman Prophecies,286,9
+28,The Movies,287,4
+29,Spenser Confidential,15,4
+29,Zombieland: Double Tap,86,2
+29,Peaky Blinders,161,10
+29,Damnation,288,10
+29,This Is Not Happening,289,10
+29,What's Your F@#King Deal?!,290,10
+30,Contagion,70,8
+31,Harry Potter and the Deathly Hallows: Part 1,10,9
+31,Halloween II,291,7
+31,The Roommate,292,5
+31,The Social Network,293,10
+32,Spenser Confidential,15,6
+32,The Invisible Man,57,8
+32,Color Out of Space,69,8
+32,El hoyo,107,8
+32,Guns Akimbo,232,7
+32,After Midnight,294,7
+32,Blood on Her Name,295,7
+32,Blow the Man Down,296,7
+32,Camp Cold Brook,297,4
+32,Clifton Hill,298,6
+32,Escape from Pretoria,299,7
+32,Hatsukoi,300,8
+32,Horse Girl,301,7
+32,Human Capital,302,6
+32,Impossible Monsters,303,5
+32,Swallow,304,7
+32,Sweet Virginia,305,6
+32,The Gentlemen,306,9
+32,The Hunt,307,7
+32,The Last Thing He Wanted,308,5
+32,True History of the Kelly Gang,309,7
+32,Uncle John,310,7
+32,Underwater,311,6
+32,Verotika,312,2
+32,VFW,313,7
+33,Contagion,70,8
+33,The Social Network,293,10
+33,Avatar,314,6
+33,Scott Pilgrim vs. the World,315,10
+33,Transformers: Revenge of the Fallen,316,4
+33,Warrior,317,9
+33,X: First Class,318,8
+34,1917,39,10
+34,Emma.,319,8
+34,Little Women,320,5
+34,Richard Jewell,321,9
+34,The Art of Racing in the Rain,322,10
+35,The Roommate,292,2
+36,Contagion,70,8
+36,The Interview,199,2
+36,A Million Ways to Die in the West,323,2
+36,Extremely Loud & Incredibly Close,324,8
+36,Lost in Space,325,6
+36,Noah,326,1
+36,Only God Forgives,327,1
+36,Solo: A Star Wars Story,328,8
+36,The November Man,329,9
+36,The Watch,330,1
+36,The Way Way Back,331,9
+36,Wolf Hall,332,9
+36,Zodiac: Signs of the Apocalypse,333,1
+37,Spenser Confidential,15,7
+37,Hunter Killer,334,8
+37,Liar,335,2
+37,Valor,336,1
+38,Spenser Confidential,15,4
+38,Once Upon a Time... in Hollywood,53,4
+38,Canal Street,337,4
+38,Captive State,338,8
+38,Disenchantment,339,2
+38,Ready Player One,340,8
+38,The Outsiders,341,8
+38,Who Is America?,342,9
+39,12 Years a Slave,343,10
+39,All Is Lost,344,10
+39,Dredd,345,8
+39,Elysium,346,8
+39,Gravity,347,10
+39,Messiah,348,9
+39,Serbuan Maut,349,9
+39,Take This Waltz,350,9
+39,The Artist,351,10
+39,The Dark Knight Rises,352,8
+39,The Sessions,353,10
+39,The Sweeney,354,8
+39,Yi jiu si er,355,10
+40,1917,39,10
+40,Motherless Brooklyn,118,9
+40,Zero: An Investigation Into 9/11,356,10
+41, Modern Family:,357,10
+41,A Modern Farewell,358,10
+41,The Honeymoon Killers,359,7
+41,Westworld,360,4
+41,You're Bacon Me Crazy,361,5
+42,Earthquake Bird,106,5
+42,Dredd,345,7
+42,22-nenme no kokuhaku: Watashi ga satsujinhan desu,362,1
+42,Black Money,363,7
+42,Danger Close: The Battle of Long Tan,364,9
+42,Dead End,365,1
+42,Dead on Arrival,366,5
+42,Deo ge-im,367,4
+42,Detour,368,6
+42,El Topo,369,7
+42,Escape,370,1
+42,Escape Room,371,4
+42,Exfiltrés,372,6
+42,Eyes of Laura Mars,373,6
+42,I See You,374,7
+42,Marlina si pembunuh dalam empat babak,375,7
+42,Marrowbone,376,2
+42,Mother!,377,1
+42,NH10,378,7
+42,Quien a hierro mata,379,6
+42,The Drop,380,7
+42,The Gift,381,6
+42,The Hummingbird Project,382,6
+42,The Informer,383,6
+42,The Killing of a Sacred Deer,384,1
+43,Rocketman,385,7
+44,Contagion,70,10
+45,1917,39,10
+46,Spenser Confidential,15,6
+46,6 Underground,17,8
+46,The Witcher,42,7
+46,Motherless Brooklyn,118,8
+46,Ray Donovan,162,7
+46,Taboo,166,7
+46,68 Whiskey,386,8
+46,Briarpatch,387,8
+46,Crash Pad,388,8
+46,Daybreak,389,7
+46,For All Mankind,390,9
+46,Klaus,391,9
+46,Mythic Quest: Raven's Banquet,392,9
+46,See,393,3
+46,The Goldfinch,394,6
+46,The Leftovers,395,9
+46,The Mick,396,8
+46,The Morning Show,397,7
+46,The Only Living Boy in New York,398,10
+47,Spenser Confidential,15,9
+47,Selling Sunset,399,9
+47,Vis a vis,400,10
+47,What If,401,10
+47,Wu Assassins,402,7
+48,Snowpiercer,178,5
+49,Spenser Confidential,15,4
+49,100 Humans,403,1
+49,Gypsy,404,8
+50,Spenser Confidential,15,8
+50,Stargate SG-1:,405,4
+51,Spenser Confidential,15,8
+51,Joker,90,10
+51," Love, Death & Robots:",406,10
+51, The Frankenstein Chronicles:,407,9
+51, The Rookie:,408,10
+52,Spenser Confidential,15,4
+53,Once Upon a Time... in Hollywood,53,6
+54,1917,39,7
+54, The Walking Dead:,41,3
+54,Contagion,70,8
+54,Star Wars: Episode IX - The Rise of Skywalker,79,10
+54,Game of Thrones,158,10
+54, Fear the Walking Dead:,409,1
+54, The Mandalorian:,410,10
+54,The Mandalorian,410,10
+54,Crazy Rich Asians,411,2
+54,The Titan,412,1
+54,Tin Star,413,6
+55,The Passion of the Christ,64,10
+55,Star Wars: Episode IX - The Rise of Skywalker,79,5
+55,Joker,90,10
+56,Spenser Confidential,15,8
+56,Arrival,414,3
+56,"Blood, Sand and Gold",415,2
+56,Boyka: Undisputed IV,416,3
+56,Escape Plan 2: Hades,417,1
+56,Iron Fist,418,6
+56,Shooter,419,5
+56,T-34,420,8
+56,The Mourning,421,2
+56,Top Coat Cash,422,1
+56,We Die Young,423,4
+57,Snowpiercer,178,8
+58,Contagion,70,10
+59,Spenser Confidential,15,8
+60,Contagion,70,8
+60,The Man in the High Castle,424,9
+60,Timeless,425,8
+60,Tuntematon sotilas,426,8
+61,Contagion,70,9
+61,Arctic,427,9
+61,Busanhaeng,428,10
+61,Eagle Eye,429,10
+61,Eli,430,7
+61,Far from the Madding Crowd,431,10
+61,Lion,432,10
+61,Mustang,433,10
+61,Noelle,434,10
+61,Pride & Prejudice,435,10
+61,Shut In,436,7
+61,Submerged,437,5
+61,The Perfect Date,438,6
+61,The Song of Names,439,10
+61,Togo,440,10
+61,Twinsters,441,10
+61,Wonder,442,10
+62,Once Upon a Time... in Hollywood,53,7
+62,Joker,90,9
+63,Vivarium,5,8
+63,Bloodshot,45,3
+63,Human Capital,302,6
+63,Portrait de la jeune fille en feu,443,8
+64,Vivarium,5,1
+64,Escape from Pretoria,299,10
+64,Ghost,444,1
+64,The Body,445,1
+64,The Final Wish,446,3
+65,Contagion,70,8
+66,Spenser Confidential,15,7
+66,Gisaengchung,51,8
+66,Once Upon a Time... in Hollywood,53,9
+66,Terminator: Dark Fate,55,6
+66,Charlie's Angels,68,7
+66,Contagion,70,8
+66,3rd Rock from the Sun,447,9
+66,B-Movie: Lust & Sound in West-Berlin 1979-1989,448,7
+66,Barely Lethal,449,6
+66,Beforeigners,450,9
+66,Death at a Funeral,451,2
+66,Devs,452,8
+66,I Am Not Okay with This,453,7
+66,Kingsman: The Golden Circle,454,6
+66,Kraftidioten,455,9
+66,Medical Police,456,2
+66,Mindhunter,457,8
+66,Spy,458,4
+66,The Boys,459,8
+66,The Goop Lab,460,1
+66,The Interpreter,461,8
+66,The Loudest Voice,462,8
+66,The Necessary Death of Charlie Countryman,463,7
+67,Contagion,70,9
+67,Sons of the Caliphate,464,2
+68,Bloodshot,45,1
+69,Spenser Confidential,15,6
+70,The Passion of the Christ,64,10
+70,Paranormal Activity: The Ghost Dimension,465,1
+70,The Mummy,466,7
+71,Green Book,467,8
+71,La dolce vita,468,10
+71,Separate Tables,469,9
+71,The Little Foxes,470,10
+72,Vivarium,5,2
+72,A.P. Bio,471,7
+73,Chernobyl,46,10
+73,Once Upon a Time... in Hollywood,53,10
+73,Dolemite Is My Name,211,9
+73,Love Is Blind,472,3
+73,The English Game,473,7
+74,Contagion,70,10
+74,Game of Thrones,158,1
+74,Shazam!,474,10
+75,Eksiteu,475,7
+75,Gam-si-ja-deul,476,8
+75,Kkeut-kka-ji-gan-da,477,9
+75,La Casa de Papel,478,10
+75,Sum-bakk-og-jil,479,7
+76,Spenser Confidential,15,9
+76,The Witcher,42,9
+76,Game of Thrones,158,3
+76,Messiah,348,8
+76,21 Bridges,480,6
+76,Ad Astra,481,3
+76,Another Life,482,1
+76,Castle Rock,483,3
+76,Deadwood,484,3
+76,I Kill Giants,485,3
+76,Nighthawks,486,2
+76,Riot,487,2
+76,Rootwood,488,2
+76,Solomon Kane,489,9
+76,Star Trek: Picard,490,5
+76,The Head Hunter,491,7
+76,The Last Black Man in San Francisco,492,3
+76,The Salvation,493,3
+76,Watchmen,494,1
+76,Wonder Woman,495,5
+77,Gisaengchung,51,9
+77,The Passion of the Christ,64,9
+77,Joker,90,10
+77,Interstellar,190,8
+77,Klaus,391,8
+77,Green Book,467,9
+77,Boy,496,8
+77,Deadpool,497,8
+77,Death Sentence,498,6
+77,Drive,499,7
+77,El Camino: A Breaking Bad Movie,500,6
+77,Grindhouse,501,8
+77,Jojo Rabbit,502,9
+77,Kung Fury,503,10
+77,Nocturnal Animals,504,10
+77,Safety Not Guaranteed,505,9
+77,Salinui chueok,506,8
+77,Silicon Valley,507,7
+77,The Fifth Element,508,7
+77,The Fountainhead,509,9
+77,The Green Inferno,510,7
+77,The Road,511,5
+77,Thor: Ragnarok,512,7
+77,Yesterday,513,8
+78,Once Upon a Time... in Hollywood,53,10
+78,The Goldfinch,394,10
+79,Doctor Sleep,49,10
+79,Terminator: Dark Fate,55,9
+79,Ford v Ferrari,108,10
+79,Frozen II,514,2
+79,Midway,515,4
+80,Spenser Confidential,15,7
+80,1917,39,7
+80,Bloodshot,45,4
+80,Doctor Sleep,49,8
+80,Terminator: Dark Fate,55,5
+80,The Invisible Man,57,8
+80,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,66,6
+80,Sonic the Hedgehog,78,7
+80,Star Wars: Episode IX - The Rise of Skywalker,79,8
+80,Joker,90,5
+80,The Call of the Wild,144,8
+80,Guns Akimbo,232,5
+80,The Gentlemen,306,8
+80,Emma.,319,7
+80,A Fall from Grace,516,5
+80,Abominable,517,8
+80,Dolittle,518,7
+80,Fantasy Island,519,3
+80,Just Mercy,520,9
+80,My Spy,521,6
+80,The Gentleman,522,8
+80,The Rhythm Section,523,4
+80,The Way Back,524,7
+80,Trolls World Tour,525,6
+81,Die Another Day,95,3
+81,GoldenEye,97,10
+81,The World Is Not Enough,98,3
+81,Tomorrow Never Dies,99,5
+81,A View to a Kill,526,3
+81,Alone in the Dark,527,2
+81,Brazil,528,10
+81,Casino Royale,529,8
+81,Downhill,530,7
+81,Fear and Loathing in Las Vegas,531,7
+81,For Your Eyes Only,532,6
+81,Licence to Kill,533,7
+81,Octopussy,534,8
+81,Quantum of Solace,535,5
+81,Rampage,536,3
+81,Skyfall,537,10
+81,Spectre,538,7
+81,The Adventures of Baron Munchausen,539,7
+81,The Brothers Grimm,540,5
+81,The Fisher King,541,8
+81,The Imaginarium of Doctor Parnassus,542,7
+81,The Living Daylights,543,6
+81,The Zero Theorem,544,4
+81,Time Bandits,545,7
+81,Twelve Monkeys,546,10
+82,Bloodshot,45,6
+82,The Invisible Man,57,9
+82,El hoyo,107,6
+82,The Hunt,307,9
+82,Brahms: The Boy II,547,6
+83,1917,39,10
+83,Joker,90,10
+83,The Mandalorian,410,10
+84,Spenser Confidential,15,4
+84,The Last Thing He Wanted,308,3
+84,Busanhaeng,428,8
+84,A Quiet Place,548,7
+84,American Factory,549,8
+84,Bird Box,550,7
+84,Logan Lucky,551,3
+84,Skyscraper,552,5
+84,The Ruling Class,553,9
+84,Wine Country,554,4
+85,Spenser Confidential,15,10
